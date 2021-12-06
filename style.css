@@ -1,0 +1,19 @@
+    .header{
+    width: 100%;
+    background-color: pink;
+    position: fixed top right;
+    top: 0;
+    left:0;
+}
+
+.body{
+height: 200vh;
+
+}
+.border{
+border-bottom: 1px solid black;
+
+}
+p{
+    po
+}
